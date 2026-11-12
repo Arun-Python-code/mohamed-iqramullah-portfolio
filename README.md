@@ -6,10 +6,6 @@ A responsive, single-page portfolio website for a Document Specialist with four 
 
 [View the website](https://mohamed-iqramullah.netlify.app/) <!-- Replace # with your GitHub Pages or hosting link -->
 
-## Screenshot
-
-![Portfolio preview](screenshot.png) <!-- Add a screenshot named screenshot.png to the repo -->
-
 ## Features
 
 - Fully responsive layout (mobile, tablet, desktop)
